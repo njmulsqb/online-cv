@@ -138,48 +138,29 @@ experiences:
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Here are some projects that I am proud to have worked on
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: Damn Vulnerable Electron App - DVEA
+      link: https://github.com/njmulsqb/DVEA
+      tagline: "The first intentionally built vulnerable playground ever built for Electron JS."
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
   title: OSS Contributions
   intro: >
-    You can list your open source software contributions in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    I just love contributing to open source and I spare no chance of helping the FOSS community
   contributions:
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Zaproxy
+      link: https://www.zaproxy.org/docs/team/njmulsqb/
+      tagline: "The OWASP ZAP core project"
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: ZAP Extensions
+      link: https://github.com/zaproxy/zap-extensions/pulls?q=+is%3Apr+author%3Anjmulsqb+
+      tagline: "OWASP ZAP Add-ons "
 
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: and many more!
+      link: https://github.com/pulls?q=is%3Apr+author%3Anjmulsqb+
+      tagline: "See more of my PRs to several open source projects"
 
 publications:
   title: Publications
