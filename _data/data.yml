@@ -188,23 +188,29 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
+    - name: Penetration Testing
+      level: 100%
+
+    - name: Red Teaming
       level: 98%
 
-    - name: Javascript & jQuery
-      level: 98%
+    - name: Cloud Security
+      level: 90%
 
-    - name: Angular
-      level: 98%
-
-    - name: HTML5 & CSS
+    - name: Web Application Security
       level: 95%
 
-    - name: Ruby on Rails
+    - name: Mobile Application Security
       level: 85%
 
-    - name: Sketch & Photoshop
-      level: 60%
+    - name: SAST
+      level: 95%
+
+    - name: DAST
+      level: 95%
+
+    - name: Software Development
+      level: 90%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
