@@ -138,7 +138,7 @@ experiences:
 projects:
   title: Projects
   intro: >
-    Here are some projects that I am proud to have worked on
+    I am the author of DVEA which is a project built for security engineers and software developers that are looking to learn about vulnerabilities found in ElectronJS and how can they be exploited
   assignments:
     - title: Damn Vulnerable Electron App - DVEA
       link: https://github.com/njmulsqb/DVEA
