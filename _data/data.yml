@@ -160,7 +160,7 @@ oss:
 
     - title: OWASP Web Security Testing Guide - Editor
       link: https://t.co/BSTLgoKpBV?amp=1
-      tagline: "I took part in editing/reviewing the draft for OWASP WSTG v4.2. See page 11 of the PDF :)"
+      tagline: "I took part in editing/reviewing the draft for OWASP WSTG v4.2. See page 11 of the WSTG v4.2"
 
     - title: Scripts
       link: https://github.com/njmulsqb
@@ -173,10 +173,10 @@ oss:
 publications:
   title: Publications
   intro: |
-    During my bachelors, I did research on GraphQL security under the supervision of Prof. Maj. Retd. Arif Butt
+    During my bachelors, I did research on GraphQL security under the supervision of Maj. Retd. Dr. Muhammad Arif Butt
   papers:
     - title: GraphQL in Scope "An In-depth approach on how GraphQL can be exploited"
-      link: "#"
+      link: https://mega.nz/file/KGwl0Q5B#I2Mn4a2211iFl8syn3J-XKe6tSjs15uLqcDMYPTLI-M
       authors: Najam Ul Saqib
       conference:
 
