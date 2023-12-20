@@ -141,20 +141,20 @@ certifications:
     - name: Microsoft Certified Azure Security Engineer
       start: 2023
       organization: Microsoft
-      credentialurl: https://learn.microsoft.com/en-us/users/najamulsaqib-5927/credentials/89405e804dfbb826
+      credentialurl: learn.microsoft.com/en-us/users/najamulsaqib-5927/credentials/89405e804dfbb826
       credentialname: AZ-500
     - name: Certified AppSec Practitioner
       start: 2023
       credentialid: 6900943
       organization: The SecOps Group
-      credentialurl: https://www.linkedin.com/posts/njmulsqb_certificate-activity-7015594616087306240-IbWJ/
+      credentialurl: linkedin.com/posts/njmulsqb_certificate-activity-7015594616087306240-IbWJ/
       credentialname: CAP
     - name: Certified Ethical Hacker (CEH)
       start: 2022
       # end: 2025
       organization: EC-Council
       credentialid: ECC6415390287
-      credentialurl: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=7AlD3J3q40gMBzeDpu7uw1hYN/kHvfVHEUl2H+Ei6go=
+      credentialurl: aspen.eccouncil.org/VerifyBadge?type=certification&a=7AlD3J3q40gMBzeDpu7uw1hYN/kHvfVHEUl2H+Ei6go=
       credentialname: CEH
       # details: |
       #   Details about cert. Lorem ipsum dolor sit amet, consectetur 
@@ -173,7 +173,7 @@ certifications:
     - name: Azure Security, Compliance & Identity Fundamentals
       start: 2022
       organization: Microsoft
-      credentialurl: https://www.credly.com/badges/6d6ad254-8364-424b-9581-a686e94b0b57/public_url
+      credentialurl: credly.com/badges/6d6ad254-8364-424b-9581-a686e94b0b57/public_url
       credentialname: SC-900
     - name:  Certified in Cybersecurity
       start: 2022
@@ -181,13 +181,13 @@ certifications:
     - name: Secure Coding Course
       start: 2021
       organization: We Hack Purple
-      credentialurl: https://www.credential.net/62522e28-3c25-4ab4-a36b-dd3189b28bcf
+      credentialurl: credential.net/62522e28-3c25-4ab4-a36b-dd3189b28bcf
       credentialname: SCC
     - name: Certified Network Security Specialist
       start: 2020
       organization: ICSI, UK
       credentialid: 20144649
-      credentialurl: https://www.credential.net/4163ad18-e209-41f2-b738-65ba5552609f#gs.15f0yv
+      credentialurl: credential.net/4163ad18-e209-41f2-b738-65ba5552609f#gs.15f0yv
       credentialname: CNSI
 projects:
   title: Projects
