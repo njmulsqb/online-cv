@@ -26,7 +26,7 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf:
+  pdf: https://njmulsqb.github.io/online-cv/assets/njmulsqb-cv.pdf
 
   languages:
     title: Languages
